@@ -1,0 +1,28 @@
+/*Atividade 1*/
+body {
+  background-color: violet;
+}
+
+/*Atividade 2*/
+h1 {
+  font-size: 4em;
+  text-align: center;
+  padding: 40px;
+}
+
+li,
+p {
+  font-size: 1.5em;
+  margin: 20px;
+  line-height: 2em;
+}
+
+/*Atividade 3*/
+.alinhado {
+  display: inline;
+}
+
+/*Atividade 4*/
+.bloco {
+  display: block;
+}
